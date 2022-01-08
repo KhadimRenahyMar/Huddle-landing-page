@@ -69,7 +69,7 @@
 
 .contentBx__title{
     font-weight: 600;
-    font-size: 3.2rem;
+    font-size: 3rem;
     margin: 0 0 2rem 0;
 }
 
@@ -186,10 +186,6 @@
         width: 80%;
         text-align: center;
         margin: 4rem auto 0.5rem;
-    }
-
-    .contentBx__title{
-        font-size: 3rem;
     }
 
     .contentBx__txt{
