@@ -7,17 +7,18 @@
 }
 
 .body{
-    position: absolute;
     top: 0;
     bottom: 0;
     width: 100%;
     height: 100%;
-    font-family: 'Poppins', sans-serif;
+
     background: url(../images/bg-desktop.svg) no-repeat;
-    background-size: 90%;
-    background-position-y: -1rem;
+    background-size: cover;
     background-position-x: -5rem;
     background-color: hsl(257, 40%, 49%);
+    background-attachment: fixed;
+
+    font-family: 'Poppins', sans-serif;
 }
 
 .wrapper{
@@ -167,4 +168,62 @@
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 1200px) {
+
+    .body{
+        background: url(../images/bg-mobile.svg) no-repeat;
+        background-size: cover;
+        background-color: hsl(257, 40%, 49%);
+    }
+
+    .container{
+        flex-direction: column;
+        margin: 2rem 0 0;
+    }
+    .container__contentBx{
+        width: 80%;
+        text-align: center;
+        margin: 4rem auto 0.5rem;
+    }
+
+    .contentBx__title{
+        font-size: 3rem;
+    }
+
+    .contentBx__txt{
+        font-size: 1.5rem;
+        margin: 2rem 2rem 2rem 2rem;
+    }
+
+    .contentBx__btn{
+        margin: 2rem;
+    }
+
+    .container__imgBx{
+        margin: auto;
+        width: 90%;
+    }
+    .imgBx__illustration{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container__contentBx{
+        width: 80%;
+        margin: 2rem auto 0.5rem;
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+    .container__contentBx{
+        width: 100%;
+        margin: 2rem auto;
+    }
+    .contentBx__title{
+        font-size: 2rem;
+    }
 }
