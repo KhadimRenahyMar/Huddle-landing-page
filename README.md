@@ -28,10 +28,13 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop
+
 ![desktop view](./images/2022-01-08%2011.15.55%20127.0.0.1%20f3e79ec5d123.png)
 
 #### Responsive
+
 ![< 1200px view](./images/2022-01-08%2011.16.51%20127.0.0.1%2022e0a08c6374.png)
+
 ### Links
 
 - Solution URL: [Link](https://khadimrenahymar.github.io/Huddle-landing-page-with-single-introductory-section/)
@@ -45,7 +48,6 @@ Users should be able to:
 - Flexbox
 - Eric A. and Kathryn S. Meyer's "Reset CSS"
 - FavIcons
-
 
 ## Author
 
