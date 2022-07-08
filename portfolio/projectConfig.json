@@ -4,7 +4,7 @@
   "size": "XS",
   "techs": [
     "HTML",
-    "CSS",
+    "CSS"
   ],
   "packages": [],
   "designPatterns":[
@@ -12,7 +12,6 @@
     "media queries"
   ],
   "components":[
-    "button",
-    "icons",
+    "button"
   ]
 }
