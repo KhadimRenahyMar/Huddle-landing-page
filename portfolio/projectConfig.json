@@ -6,5 +6,13 @@
     "HTML",
     "CSS",
   ],
-  "packages": []
+  "packages": [],
+  "designPatterns":[
+    "flexbox",
+    "media queries"
+  ],
+  "components":[
+    "button",
+    "icons",
+  ]
 }
