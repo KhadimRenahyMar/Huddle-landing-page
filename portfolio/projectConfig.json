@@ -1,17 +1,22 @@
 {
-  "url": "https://khadimrenahymar.github.io/Huddle-landing-page-with-single-introductory-section/",
-  "coverURL": "https://github.com/KhadimRenahyMar/Huddle-landing-page-with-single-introductory-section/blob/master/images/2022-01-08%2011.15.55%20127.0.0.1%20f3e79ec5d123.png?raw=true",
-  "size": "XS",
-  "techs": [
-    "HTML",
-    "CSS"
-  ],
-  "packages": [],
-  "designPatterns":[
-    "flexbox",
-    "media queries"
-  ],
-  "components":[
-    "button"
-  ]
+    "url": "https://khadimrenahymar.github.io/Huddle-landing-page-with-single-introductory-section/",
+    "coverURL": "https://github.com/KhadimRenahyMar/Huddle-landing-page-with-single-introductory-section/blob/master/images/2022-01-08%2011.15.55%20127.0.0.1%20f3e79ec5d123.png?raw=true",
+    "size": "XS",
+    "techs": [
+        {
+            "name": "HTML",
+            "packages": []
+        },
+        {
+            "name": "CSS",
+            "packages": []
+        }
+    ],
+    "designPatterns": [
+        "flexbox",
+        "media queries"
+    ],
+    "components": [
+        "button"
+    ]
 }
