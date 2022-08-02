@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://khadimrenahymar.github.io/Huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [Link](https://khadimrenahymar.github.io/Huddle-landing-page/)
 
 ## My process
 
