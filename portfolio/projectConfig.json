@@ -2,6 +2,7 @@
     "url": "https://khadimrenahymar.github.io/Huddle-landing-page/",
     "coverURL": "https://raw.githubusercontent.com/KhadimRenahyMar/Huddle-landing-page/master/portfolio/screenshots/0cover.webp",
     "size": "XS",
+    "mainTechs": ["HTML", "CSS"],
     "techs": [
         {
             "name": "HTML",
